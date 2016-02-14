@@ -1,0 +1,22 @@
+PODS:
+  - HBKit (0.4.0):
+    - MJRefresh (~> 2.2.0)
+  - MJRefresh (2.2.1)
+
+DEPENDENCIES:
+  - HBKit (from `https://github.com/Natoto/HBFastTableViewCotroller.git`)
+
+EXTERNAL SOURCES:
+  HBKit:
+    :git: https://github.com/Natoto/HBFastTableViewCotroller.git
+
+CHECKOUT OPTIONS:
+  HBKit:
+    :commit: 4192dd1da00332a6f2707c6e33ed63aa91794e89
+    :git: https://github.com/Natoto/HBFastTableViewCotroller.git
+
+SPEC CHECKSUMS:
+  HBKit: a3146b4b416f1ae3f0b9395f8583a203e9ca5ffc
+  MJRefresh: c3fa0387e8e97a11a9666639d2f815607edd1c2f
+
+COCOAPODS: 0.39.0
