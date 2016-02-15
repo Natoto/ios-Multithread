@@ -1,9 +1,6 @@
-###iOS 多线程的四种技术方案
-
+##iOS 多线程的四种技术方案
 ![image](https://github.com/Natoto/ios-Multithread/blob/master/images/fourmethod.png?raw=true)
-
 pthread 实现多线程操作
-
 代码实现：
 ```javascript
 void * run(void *param)
