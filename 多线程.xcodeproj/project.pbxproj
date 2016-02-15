@@ -17,7 +17,6 @@
 		33F7E74D1C70611400423CE0 /* nsthreadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F7E74C1C70611400423CE0 /* nsthreadViewController.m */; };
 		33F7E7501C70612200423CE0 /* gcdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F7E74F1C70612200423CE0 /* gcdViewController.m */; };
 		33F7E7531C70613100423CE0 /* nsoprationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F7E7521C70613100423CE0 /* nsoprationViewController.m */; };
-		33F7E7551C70623300423CE0 /* readme in Resources */ = {isa = PBXBuildFile; fileRef = 33F7E7541C70623300423CE0 /* readme */; };
 		33F7E7581C70796700423CE0 /* gcdfunViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 33F7E7571C70796700423CE0 /* gcdfunViewController.m */; };
 		42814FC2779272199F77F236 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E05AA77409EDE82246A3E4E /* libPods.a */; };
 /* End PBXBuildFile section */
@@ -42,7 +41,6 @@
 		33F7E74F1C70612200423CE0 /* gcdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gcdViewController.m; sourceTree = "<group>"; };
 		33F7E7511C70613100423CE0 /* nsoprationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nsoprationViewController.h; sourceTree = "<group>"; };
 		33F7E7521C70613100423CE0 /* nsoprationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = nsoprationViewController.m; sourceTree = "<group>"; };
-		33F7E7541C70623300423CE0 /* readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
 		33F7E7561C70796700423CE0 /* gcdfunViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = gcdfunViewController.h; sourceTree = "<group>"; };
 		33F7E7571C70796700423CE0 /* gcdfunViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = gcdfunViewController.m; sourceTree = "<group>"; };
 		56DB1CE22231A9DE29963C65 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
@@ -118,7 +116,6 @@
 			isa = PBXGroup;
 			children = (
 				33F7E7321C705E3600423CE0 /* main.m */,
-				33F7E7541C70623300423CE0 /* readme */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -191,7 +188,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33F7E7551C70623300423CE0 /* readme in Resources */,
 				33F7E7411C705E3800423CE0 /* LaunchScreen.storyboard in Resources */,
 				33F7E73E1C705E3800423CE0 /* Assets.xcassets in Resources */,
 				33F7E73C1C705E3700423CE0 /* Main.storyboard in Resources */,
