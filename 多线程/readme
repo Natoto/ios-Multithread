@@ -27,7 +27,6 @@ OBJECTIVE-C
 
 当然第一步要包含头文件
 
-1
 #import
 然后创建线程，并执行任务
 
@@ -59,22 +58,12 @@ NSThread
 创建并启动
 
 先创建线程类，再启动
-OBJECTIVE-C
-
-1
-2
-3
-4
+OBJECTIVE-C 
 // 创建
 NSThread *thread = [[NSThread alloc] initWithTarget:self selector:@selector(run:) object:nil];
 // 启动
 [thread start];
 SWIFT
-
-1
-2
-3
-4
 //创建
 let thread = NSThread(target: self, selector: "run:", object: nil)
 //启动

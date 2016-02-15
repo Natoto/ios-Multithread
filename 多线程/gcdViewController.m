@@ -179,6 +179,8 @@
     });
 }
 
+
+
 -(void)demo_downloadimage
 {
     UIActivityIndicatorView * loadingview = [[UIActivityIndicatorView alloc] initWithActivityIndicatorStyle:UIActivityIndicatorViewStyleGray];
@@ -202,6 +204,5 @@
         });
     });
 }
-
 
 @end
